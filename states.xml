@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="states.xsl"?>
+<!DOCTYPE india SYSTEM "states.dtd">
+<india>
+	<states>
+		<state id='tn'>Tamilnadu</state>
+		<capital>Chennai</capital>
+		<area_size>130058</area_size>
+		<population>77800000</population>
+		<language>Tamil</language>
+		<primary_crop>Rice</primary_crop>
+		<specialisation>Chennai known as Detroit of Asia</specialisation>
+	</states>
+	<states>
+		<state id='kl'>Kerela</state>
+		<capital>Thiruvananthapuram</capital>
+		<area_size>38863</area_size>
+		<population>35330888</population>
+		<language>Malayalam</language>
+		<primary_crop>Pepper</primary_crop>
+		<specialisation>God's own country</specialisation>
+	</states>
+	<states>
+		<state id='kn'>Karnataka</state>
+		<capital>Bengaluru</capital>
+		<area_size>191791</area_size>
+		<population>66165886</population>
+		<language>Kannada</language>
+		<primary_crop>Paddy</primary_crop>
+		<specialisation>Electronic city</specialisation>
+	</states>
+	<states>
+		<state id='ap'>Andhra Pradesh</state>
+		<capital>Hyderabad</capital>
+		<area_size>160205</area_size>
+		<population>53302465</population>
+		<language>Telugu</language>
+		<primary_crop>Red Chilli</primary_crop>
+		<specialisation>Tirupathi Temple</specialisation>
+	</states>
+	<states>
+		<state id='tgna'>Telangana</state>
+		<capital>Hyderabad</capital>
+		<area_size>112007</area_size>
+		<population>37725000</population>
+		<language>Telugu</language>
+		<primary_crop>Rice</primary_crop>
+		<specialisation>Monuments</specialisation>
+	</states>
+	<states>
+		<state id='goa'>Goa</state>
+		<capital>Panaji</capital>
+		<area_size>3702</area_size>
+		<population>1542750</population>
+		<language>Konkani</language>
+		<primary_crop>Paddy</primary_crop>
+		<specialisation>Beaches</specialisation>
+	</states>
+	<states>
+		<state id='mh'>Maharashtra</state>
+		<capital>Mumbai</capital>
+		<area_size>307713</area_size>
+		<population>124904071</population>
+		<language>Marathi</language>
+		<primary_crop>Maize</primary_crop>
+		<specialisation>Bollywood</specialisation>
+	</states>
+	<states>
+		<state id='gj'>Gujarat</state>
+		<capital>Gandhinagar</capital>
+		<area_size>196024</area_size>
+		<population>63907200</population>
+		<language>Gujarati</language>
+		<primary_crop>Cotton</primary_crop>
+		<specialisation>Ancient dockyards</specialisation>
+	</states>
+	<states>
+		<state id='mp'>Madhya Pradesh</state>
+		<capital>Bhopal</capital>
+		<area_size>308245</area_size>
+		<population>82342793</population>
+		<language>Hindi</language>
+		<primary_crop>Pulses</primary_crop>
+		<specialisation>Heart of India</specialisation>
+	</states>
+	<states>
+		<state id='ch'>Chattisgarh</state>
+		<capital>Raipur</capital>
+		<area_size>135192</area_size>
+		<population>28566990</population>
+		<language>chattisgarhi</language>
+		<primary_crop>Groundnuts</primary_crop>
+		<specialisation>Rice bowl of central india</specialisation>
+	</states>
+	<states>
+		<state id='od'>Odisha</state>
+		<capital>Bhubaneswar</capital>
+		<area_size>155707</area_size>
+		<population>45429399</population>
+		<language>Odia</language>
+		<primary_crop>Mustard</primary_crop>
+		<specialisation>Kalinga Architecture</specialisation>
+	</states>
+	<states>
+		<state id='jk'>Jharkhand</state>
+		<capital>Ranchi</capital>
+		<area_size>79716</area_size>
+		<population>37329128</population>
+		<language>Hindi</language>
+		<primary_crop>Wheat</primary_crop>
+		<specialisation>Mining Industries</specialisation>
+	</states>
+	<states>
+		<state id='wb'>West Bengal</state>
+		<capital>Kolkata</capital>
+		<area_size>88752</area_size>
+		<population>98700000</population>
+		<language>Bengali</language>
+		<primary_crop>Jute</primary_crop>
+		<specialisation>Durga Festival</specialisation>
+	</states>
+	<states>
+		<state id='br'>Bihar</state>
+		<capital>Patna</capital>
+		<area_size>94163</area_size>
+		<population>11946100</population>
+		<language>Hindi</language>
+		<primary_crop>Wheat</primary_crop>
+		<specialisation>Buddhist Sites</specialisation>
+	</states>
+	<states>
+		<state id='up'>Uttar Pradesh</state>
+		<capital>Lucknow</capital>
+		<area_size>243286</area_size>
+		<population>228959299</population>
+		<language>Hindi</language>
+		<primary_crop>Wheat</primary_crop>
+		<specialisation>Historical Places</specialisation>
+	</states>
+	<states>
+		<state id='hy'>Haryana</state>
+		<capital>Chandigarh</capital>
+		<area_size>44212</area_size>
+		<population>27388008</population>
+		<language>Haryanvi</language>
+		<primary_crop>Wheat</primary_crop>
+		<specialisation>Industrial Hub</specialisation>
+	</states>
+	<states>
+		<state id='pj'>Punjab</state>
+		<capital>Chandigarh</capital>
+		<area_size>50362</area_size>
+		<population>29611935</population>
+		<language>Punjabi</language>
+		<primary_crop>Wheat</primary_crop>
+		<specialisation>Sporting Culture</specialisation>
+	</states>
+	<states>
+		<state id='uk'>Uttarkhand</state>
+		<capital>Dehradun</capital>
+		<area_size>53483</area_size>
+		<population>11090425</population>
+		<language>Hindi</language>
+		<primary_crop>Fruits</primary_crop>
+		<specialisation>Hill Station</specialisation>
+	</states>
+	<states>
+		<state id='hp'>Himachal Pradesh</state>
+		<capital></capital>
+		<area_size>55673</area_size>
+		<population>7316708</population>
+		<language>Hindi</language>
+		<primary_crop>Fruits</primary_crop>
+		<specialisation>Mountain Stations</specialisation>
+	</states>
+	<states>
+		<state id='skm'>Sikkim</state>
+		<capital>Gangtok</capital>
+		<area_size>7096</area_size>
+		<population>671720</population>
+		<language>Sikkimese</language>
+		<primary_crop>Maize</primary_crop>
+		<specialisation>Hill Tourist</specialisation>
+	</states>
+	<states>
+		<state id='asm'>Assam</state>
+		<capital>Dispur</capital>
+		<area_size>78438</area_size>
+		<population>31205576</population>
+		<language>Assamese</language>
+		<primary_crop>Tea</primary_crop>
+		<specialisation>Brahmaputra River</specialisation>
+	</states>
+	<states>
+		<state id='mgh'>Meghalaya</state>
+		<capital>Shillong</capital>
+		<area_size>22720</area_size>
+		<population>32726323</population>
+		<language>Khasi</language>
+		<primary_crop>Maize</primary_crop>
+		<specialisation>Bamboo Dance</specialisation>
+	</states>
+	<states>
+		<state id='tp'>Tripura</state>
+		<capital>Agartala</capital>
+		<area_size>10492</area_size>
+		<population>4057847</population>
+		<language>Bengali</language>
+		<primary_crop>Pineapple</primary_crop>
+		<specialisation>Dense Forest</specialisation>
+	</states>
+	<states>
+		<state id='ng'>Nagaland</state>
+		<capital>Kohima</capital>
+		<area_size>16579</area_size>
+		<population>2189217</population>
+		<language>Nagamese</language>
+		<primary_crop>Corn</primary_crop>
+		<specialisation>Land of Festivals</specialisation>
+	</states>
+</india>

@@ -1,0 +1,10 @@
+<!ELEMENT india (states+)>
+<!ELEMENT states (state,capital,area_size,population,language,primary_crop,specialisation)>
+<!ELEMENT state (#PCDATA)>
+<!ATTLIST state id ID #REQUIRED>
+<!ELEMENT capital (#PCDATA)>
+<!ELEMENT area_size (#PCDATA)>
+<!ELEMENT population (#PCDATA)>
+<!ELEMENT language (#PCDATA)>
+<!ELEMENT primary_crop (#PCDATA)>
+<!ELEMENT specialisation (#PCDATA)>
